@@ -1,0 +1,14 @@
+body {
+  overflow-x: hidden;
+}
+
+.navbar .nav-link {
+  padding-right: 1rem !important;
+  padding-left: 1rem !important;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+.navbar .nav-item.active {
+  border-left: #444 3px solid;
+}
