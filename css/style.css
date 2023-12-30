@@ -76,6 +76,10 @@ body {
   background-position: 0 -360px;
 }
 
+.about-img {
+  margin-top: -50px;
+}
+
 #main-footer {
   color: #fff;
   background: #000;
