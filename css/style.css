@@ -50,3 +50,18 @@ body {
   height: 100%;
   background: rgba(0, 0, 0, 0.7);
 }
+
+#video-play {
+  position: relative;
+  min-height: 200px;
+  color: #fff;
+  text-align: center;
+  background: url("../img/media.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 0 -300px;
+}
+
+#video-play a {
+  color: #fff;
+}
